@@ -476,3 +476,18 @@ a {
 #postListItem {
   margin-bottom: 20px;
 }
+
+.aboutIcon {
+  width: 100px;
+  margin-right: 20px;
+}
+
+#aboutProfile{
+    border-radius: 50%;
+    width: 20rem;
+    height: 20rem;
+    border: 10px solid #fff;
+    box-shadow: 0 0 12px rgba(0,0,0,.08);
+    margin-top: 50px;
+    margin-right: 45px;
+}
