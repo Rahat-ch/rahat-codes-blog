@@ -1,7 +1,7 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
+  "title": "RahatCodes Blog",
+  "url": "https://rahatcodes.com",
+  "domain": "rahatcodes.com",
   "description": "Description of the website. Update me.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me",
@@ -9,17 +9,17 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://rahatcodes.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://rahatcodes.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Rahat Chowdhury",
+    "twitterHandle": "rahatcodes"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Rahat Chowdhury"
   }
 }

@@ -65,6 +65,7 @@
         </div>
         <div id="reading-progress" aria-hidden="true"></div>
       </nav>
+      <img src="../../img/rahatcodeslogo.png">
       <h1>{{ title }}</h1>
       {% block extraArticleHeader %}{% endblock %}
       <dialog id="message"></dialog>
@@ -88,8 +89,11 @@
       </article>
     </main>
 
-    <footer>
+    <footer class="mainFooter">
       <a href="/about/">{{ metadata.author.name }}</a>
+      <br>
+      <a href="https://twitter.com/Rahatcodes"><img class="footerIcon" src="../../img/twitter.svg" /></a>
+      <a href="https://www.linkedin.com/in/rahatc/"><img class="footerIcon" src="../../img/linkedin.svg" /></a>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->
