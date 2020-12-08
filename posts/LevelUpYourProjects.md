@@ -9,7 +9,7 @@ alt: a laptop with code on the screen
 
 Build, build, build. That's what I hear a lot of folks on the internet saying. The more you build the more experience you get with coding and the more you learn. This is true, I fully support this idea. However at some point we need to focus on more than just learning and showcase our skills in a way that can wow our potential employers. 
 
-So maybe you've got some projects with some cool CRUD functionality, maybe you're having a hard time actually figuring out what to make that could be really useful. My philosophy is always build products instead of projects. Thats why I'm currently writing my book [Build a Product Become a Developer](https://buildaproduct.dev).
+So maybe you've got some projects with some cool CRUD functionality, maybe you're having a hard time actually figuring out what to make that could be really useful. My philosophy is always build products instead of projects. Thats why I'm currently writing my book [Build a Product Become a Developer](https://www.buildaproduct.dev/).
 
 Let's see how we can take some common projects and turn them into a product. 
 
