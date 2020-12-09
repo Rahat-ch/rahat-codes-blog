@@ -3,7 +3,9 @@ title: Targeted Interview Prep
 description: Going beyond just preparing for technical and behavioral interviews. This post explores how to effectively prepare for specific company interviews.
 date: 2020-11-24
 layout: layouts/post.njk
-image: ../img/interview.jpg
+image: /../img/interview.jpg
+tags:
+  - job-search
 alt: three women in a job interview
 ---
 

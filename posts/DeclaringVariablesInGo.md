@@ -3,7 +3,7 @@ title: Declaring Variables in Go
 description: My foray into the language with the best mascot. This is all about declaring variables in GO.
 date: 2020-02-11
 layout: layouts/post.njk
-image: ../img/gopher.png
+image: /../img/gopher.png
 alt: Blue Golang Gopher with mohawk and beard
 ---
 

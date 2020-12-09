@@ -3,7 +3,9 @@ title: Stop Applying, Get Referrals
 description: Learn how to skip the line in the interview process. Get a referral and get your application looked at by a human.
 date: 2020-11-20
 layout: layouts/post.njk
-image: ../img/forhire.jpg
+image: /../img/forhire.jpg
+tags:
+  - job-search
 alt: for hire sign
 ---
 

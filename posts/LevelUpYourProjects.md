@@ -3,7 +3,9 @@ title: Level up your Projects
 description: A blog post on suggestions for taking your projects to the next level when preparing to showcase them while hunting for a job as a web developer. 
 date: 2020-12-07
 layout: layouts/post.njk
-image: ../img/projects.jpg
+image: /../img/projects.jpg
+tags:
+  - job-search
 alt: a laptop with code on the screen
 ---
 

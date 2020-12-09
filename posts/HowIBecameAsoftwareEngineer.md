@@ -3,7 +3,9 @@ title: How I became a Software Engineer.
 description: A little bit about my story and how I switched form a career in customer support over to a career as a Software Engineer.
 date: 2019-07-02
 layout: layouts/post.njk
-image: ../img/me.png
+image: /../img/me.png
+tags:
+  - job-search
 alt: Rahat profile picture
 ---
 

@@ -3,7 +3,7 @@ title: Chocolate Chip Cookies and Recursion
 description: Recursion for the rest of us. Check out this difficult Computer science concept broken down into simplet terms with examples in JavaScript.
 date: 2020-02-03
 layout: layouts/post.njk
-image: ../img/cookies.jpg
+image: /../img/cookies.jpg
 alt: chocolate chip cookies and milk
 ---
 

@@ -3,7 +3,7 @@ title: JavaScript Closures and Pokemon
 description: Closures are a hard concept to get down. Let's explore closures and understand them better by catching pokemon.
 date: 2020-12-06
 layout: layouts/post.njk
-image: ../img/pokeball.jpg
+image: /../img/pokeball.jpg
 alt: a person holding a pokeball
 ---
 

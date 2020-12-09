@@ -3,7 +3,9 @@ title: Networking - Twitter vs LinkedIn
 description: Where should we network? LinkedIn was built for it but Twitter can be a suprisingly good place to network as well.
 date: 2020-11-23
 layout: layouts/post.njk
-image: ../img/iphoneSocial.jpg
+image: /../img/iphoneSocial.jpg
+tags:
+  - job-search
 alt: iphone with social media icons
 ---
 

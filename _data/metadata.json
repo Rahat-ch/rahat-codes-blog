@@ -2,11 +2,11 @@
   "title": "RahatCodes Blog",
   "url": "https://rahatcodes.com",
   "domain": "rahatcodes.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "description": "The Rahat Codes Blog",
+  "genre": "Web Development",
   "googleAnalyticsId": "GA ID. Update me",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "The Rahat Codes Blog",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://rahatcodes.com"

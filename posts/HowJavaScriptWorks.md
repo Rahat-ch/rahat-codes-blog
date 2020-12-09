@@ -3,7 +3,7 @@ title: How JavaScript Executes
 description: A brief overview of how JavaScript works. Lets get a better understanding of JavaScript by talking about the Execution context.
 date: 2020-12-07
 layout: layouts/post.njk
-image: ../img/javascript.jpg
+image: /../img/javascript.jpg
 alt: a laptop with code on the screen
 ---
 
