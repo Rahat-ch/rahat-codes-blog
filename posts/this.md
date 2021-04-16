@@ -3,7 +3,7 @@ title: This in JavaScript
 description: What is "this" in JavaScript? 
 date: 2021-01-05
 layout: layouts/post.njk
-image: /../img/this.jpeg
+image: /../img/2021.jpg
 alt: the word this with a grassy backdrop
 ---
 
